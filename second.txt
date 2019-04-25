@@ -1,2 +1,7 @@
 second file
+<<<<<<< HEAD
 hi
+=======
+hi am ArunSarva
+henge nav
+>>>>>>> 81eb253c51d31959a9c36055a168f07b3803d87d
