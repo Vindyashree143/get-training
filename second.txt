@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 second file changes
 first file
 welcome arun
 next changes
-=======
 second file
-hi am ArunSarva
->>>>>>> 4b243109738b1b336a33a6e93c32b0401cdab6c6
